@@ -131,8 +131,8 @@
             </button>
 
 
-            <div class="row text-white">
-                <div class="bg-white p-5 rounded my-10 shadow-sm">
+            <div class="row text-gray">
+                <div class="bg-white p-5 rounded my-12 shadow-sm">
                     @yield('content')               
                 </div>               
             </div>
